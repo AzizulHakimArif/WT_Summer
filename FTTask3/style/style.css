@@ -1,0 +1,55 @@
+body{
+    background-color:#bad2d4;
+}
+.top{
+    background-color: rgb(94, 242, 255);
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.h1{
+    color: black;
+}
+.header{
+    margin-left: 450px;
+}
+h2{
+    color: blue;
+    margin-left: 540px;
+}
+.navbar{
+    background-color: rgb(105, 14, 105);
+    padding: 10px 0;
+}
+
+.nav-menu{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 15px;
+}
+.nav-menu:hover{
+    color: yellow;
+    transition: ease-in .5s;
+}
+
+.registration{
+    background-color: #d0fafe;
+    border-left: rgb(57, 157, 157) solid 10px;
+    padding: 2px;
+
+}
+hr{
+    color: beige;
+    margin-bottom:10px;
+}
+
+tr{
+    background-color: yellow;
+}
+.btn{
+    padding: 5px 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: blue;
+    border: #111 solid 2px;
+}
